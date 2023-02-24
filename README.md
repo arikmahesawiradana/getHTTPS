@@ -1,0 +1,7 @@
+# getHTTPS
+
+GetHTTP adalah sebuah fungsi pada platform ESP32 yang digunakan untuk mengambil data JSON dari sebuah API (Application Programming Interface). API merupakan antarmuka yang memungkinkan pengguna untuk berkomunikasi dengan sistem atau aplikasi secara langsung melalui kode program.
+Dalam hal ini, ESP32 merupakan sebuah platform mikrokontroler yang dilengkapi dengan modul WiFi dan Ethernet yang memungkinkan akses ke jaringan internet. Dengan menggunakan GetHTTP, pengguna dapat mengambil data JSON dari API yang tersedia di internet, dan menggunakan data tersebut untuk memproses suatu aplikasi atau sistem.
+Fungsi GetHTTP pada ESP32 dapat diimplementasikan dengan menggunakan bahasa pemrograman C/C++. Fungsi ini menggunakan protokol HTTP (Hypertext Transfer Protocol) untuk mengambil data dari API. Setelah data berhasil diambil, data tersebut dapat diterima dalam format JSON, dan kemudian dapat diproses menggunakan program yang sesuai dengan kebutuhan pengguna.
+Dalam penggunaannya, GetHTTP dapat diatur untuk melakukan pengambilan data secara periodik atau berdasarkan kondisi tertentu yang telah ditentukan oleh pengguna. Hal ini memungkinkan pengguna untuk memperoleh data secara real-time dan terus-menerus dari API yang tersedia.
+Dalam kesimpulannya, GetHTTP pada ESP32 adalah sebuah fungsi yang memungkinkan pengguna untuk mengambil data JSON dari sebuah API dengan menggunakan protokol HTTP. Fungsi ini sangat berguna untuk aplikasi atau sistem yang membutuhkan akses data real-time dari internet dan dapat diatur sesuai dengan kebutuhan pengguna.
